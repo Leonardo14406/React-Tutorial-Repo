@@ -62,3 +62,10 @@ main{
     font-size: 1.4rem;
     color:#61DAFB;
 }
+footer{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
